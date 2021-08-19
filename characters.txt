@@ -1,3 +1,4 @@
 Rabbit
 Turtle
 Other animals
+Lion
